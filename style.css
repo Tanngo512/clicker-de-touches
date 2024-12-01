@@ -42,3 +42,6 @@ a{
     border: solid 5px black;
     margin: 5px;
 }
+#Mot{
+    user-select: none;
+}
