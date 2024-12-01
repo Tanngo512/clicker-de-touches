@@ -8,6 +8,7 @@ body{
     font-family: "Poppins", Helvetica, sans-serif;
     min-height: 100vh;
     min-width: 100vw;
+    user-select: none;
 }
 a{
     text-transform: uppercase;
@@ -41,7 +42,4 @@ a{
     padding:5px ;
     border: solid 5px black;
     margin: 5px;
-}
-#Mot{
-    user-select: none;
 }
